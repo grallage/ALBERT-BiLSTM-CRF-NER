@@ -8,9 +8,11 @@ You can get the chinese model from [here](https://github.com/google-research/alb
 
 This project run in python3 and tensorflow 1.x.
 
+[本人不定期更新相关博客](https://funnyai.blogspot.com/2020/04/albertner.html)，需梯子。
+
 ## HOW TO USE
 
-You can upload [how-to-use.ipynb](https://github.com/grallage/ALBERT-BiLSTM-CRF-NER/example/how-to-use.ipynb) to [google colab](https://colab.research.google.com/notebooks/welcome.ipynb), or see my blog here.
+You can upload [how-to-use.ipynb](https://github.com/grallage/ALBERT-BiLSTM-CRF-NER/example/how-to-use.ipynb) to [google colab](https://colab.research.google.com/notebooks/welcome.ipynb), or see my blog here. Please use GPU. Just follow Edit > Notebook settings or Runtime>Change runtime type and select GPU as Hardware accelerator.
 
 ## UPDATE:
 - 2020.4.19 create project 
