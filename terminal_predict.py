@@ -12,7 +12,7 @@ import pickle
 import os
 from datetime import datetime
 
-from run_ner import create_model, InputFeatures
+from ner_utils import create_model, InputFeatures
 import tokenization, modeling
 
 max_seq_length=128
